@@ -1,3 +1,6 @@
+<html>
+    <head>
+        <title>CRUD applicaton</title>
 <style>
     body{
         height:100%;
@@ -64,9 +67,8 @@ td a{
     display:auto;
 }
 </style>
+</head>
 <body>
-
-</body>
 <table align="Center">
     <tr bgcolor="skyblue">
         <td colspan="8"><h2><a href="insert.php"> ADD STUDENT</a></h2></td>
@@ -124,3 +126,5 @@ $query = "select * from student ORDER BY ROLL";
         }
     }
 </script>
+</body>
+</html>
