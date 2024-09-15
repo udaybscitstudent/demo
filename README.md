@@ -1,5 +1,3 @@
 # demo
-This is my first git repository.
-<br>
-Author - uday kumar
-<br>
+Crud operation perform in PHP
+Author- uday kumar
